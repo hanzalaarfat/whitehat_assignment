@@ -1,0 +1,12 @@
+.rectangle {
+  display: inline-block;
+  width: 500px;
+  height: 600px;
+  border: solid black;
+}
+p {
+  width: 400px;
+  height: 500px;
+  border: solid black;
+  stroke: blue;
+}
